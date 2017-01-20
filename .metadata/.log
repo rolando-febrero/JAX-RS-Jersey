@@ -1,0 +1,204 @@
+!SESSION 2017-01-20 12:56:30.806 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-01-20 12:56:32.116
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-01-20 12:56:32.117
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-01-20 12:56:32.118
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-01-20 12:56:32.119
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-01-20 12:56:32.120
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-01-20 12:56:32.120
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-01-20 12:56:32.121
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-01-20 12:56:32.121
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-01-20 12:56:32.122
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-01-20 12:56:32.123
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-01-20 12:56:32.123
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-01-20 12:56:32.124
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.ui 4 4 2017-01-20 12:57:03.765
+!MESSAGE Referenced part does not exist yet: com.ibm.etools.ui.navigator.SDExplorer.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-01-20 12:57:06.158
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-01-20 12:57:06.159
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-01-20 12:57:24.594
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin org.eclipse.cft.server.branding.core.
+!SESSION 2017-01-20 14:55:49.804 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-01-20 14:55:51.582
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-01-20 14:55:51.582
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-01-20 14:55:51.582
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-01-20 14:55:51.582
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-01-20 14:55:51.582
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-01-20 14:55:51.598
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-01-20 14:56:06.495
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-01-20 14:56:06.495
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-01-20 15:14:08.971 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-01-20 15:14:10.160
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-01-20 15:14:10.160
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-01-20 15:14:10.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-01-20 15:14:39.119
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-01-20 15:14:39.119
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'H:\'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-01-20 15:29:16.921
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin org.eclipse.cft.server.branding.core.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:23:57.822
+!MESSAGE cacheFile=file:/D:/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:23:57.826
+!MESSAGE cacheFile=file:/D:/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:23:57.835
+!MESSAGE already installed: com.ibm.cftools.server
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:23:57.836
+!MESSAGE already installed: com.ibm.cftools.server
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:25:07.489
+!MESSAGE already installed: com.ibm.cftools.server
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:25:07.490
+!MESSAGE already installed: com.ibm.cftools.server
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-01-20 16:25:28.834
+!MESSAGE cacheFile=file:/D:/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
