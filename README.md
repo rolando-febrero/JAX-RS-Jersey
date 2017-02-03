@@ -13,8 +13,8 @@ Make it easy to build RESTful Web services utilising Java and the Java Virtual M
 
 
 For this exercise we are going to use:
-Java 1.7,
-Tomcat 7,
-Jersey,
-Eclipse IDE
+- Java 1.7,
+- Tomcat 7,
+- Jersey,
+- Eclipse IDE
 
